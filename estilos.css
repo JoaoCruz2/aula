@@ -1,0 +1,118 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial;
+}
+
+.topo{
+padding-top: 20px;
+background:#4F4F4F;
+width: 50%;
+height: 200px;
+text-align: center;
+color: white;
+}
+
+.tabela TABLE, .tabela td, .tabela th{
+	border: 1px solid;
+	text-align: center;
+}
+
+.tabela table{margin: 0 auto;
+	  border-collapse: collapse;
+}
+
+.tabela th{
+	background: black;
+	color: white;
+}
+
+.tabela{
+	width: 100%;
+	text-align: center;
+	margin: 50px 0;
+}
+
+.servico{
+	text-align: center;
+}
+
+.servico table{
+	border: 1px solid #A9A9A9;
+	border-collapse: collapse;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.servico td{
+	border-bottom: 1px solid #A9A9A9;
+	border-top: 1px solid #A9A9A9;
+	width: 200px;
+	height: 50px;
+
+}
+
+.servico img{
+	width: 25px;
+}
+
+.servico th{
+	height: 70px;
+}
+
+.fundo01{
+	background: #FC471E;
+}
+
+.fundo02{
+	background: #2993FC;
+}
+
+.fundo03{
+	background: #118080;
+}
+
+.fundo01, .fundo02, .fundo03{
+	color: white;
+}
+
+.primeiracoluna{
+	width: 400px;
+}
+
+.botao{
+	width: 150px;
+	padding-top: 7px ;
+	border-radius: 5px;
+    margin: 0 auto;
+}
+
+.rodape{
+	width: 100%;
+	height: 200px;
+	background: #d6d6d6;
+	border-top: 1px solid #c7c7c7;
+	text-align: center;
+	color: #858282;
+	margin-top: 100px;
+}
+
+.rodape p{
+	padding-top: 70px;
+}
+
+.copinha{ 
+	text-align: center;
+}
+.copinha table{
+	text-align: center;
+	margin: auto;
+}
+
+.copinha td{
+	width: 200px;	
+}
+
+.copinha img {
+	height: 300px;
+}
